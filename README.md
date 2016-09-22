@@ -8,3 +8,4 @@
 ##Version 1.1.2
 
   - ios10 login bug fixed
+  - autocomplete for chat added
